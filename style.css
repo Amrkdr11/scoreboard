@@ -34,7 +34,7 @@ body{
             width: 100px;
 }
 
-.btn{
+button{
     background: transparent;
     border: 1px solid;
     border-radius: 10px;
